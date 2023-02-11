@@ -102,7 +102,7 @@ def create_student():
         data = f'{key}: {all_students[key]}'
         record_to_file(data)
 
-    log.log_input_data('New student added to database')
+    log.log_input_data('Новый ученик добавлен в базу данных')
     print(all_classes)
     print(all_students[id_student])
 
