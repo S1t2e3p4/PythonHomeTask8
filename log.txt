@@ -1,0 +1,69 @@
+11/02/2023 15:26:Initial database formed
+11/02/2023 15:26:Database updated in .txt file
+11/02/2023 15:26:Database updated in .txt file
+11/02/2023 15:26:Database updated in .txt file
+11/02/2023 15:26:Database updated in .txt file
+11/02/2023 15:26:Database updated in .txt file
+11/02/2023 15:26:Database updated in .txt file
+11/02/2023 15:26:Database updated in .txt file
+11/02/2023 15:26:Database updated in .txt file
+11/02/2023 15:26:Database updated in .txt file
+11/02/2023 15:26:Database updated in .txt file
+11/02/2023 15:26:Database updated in .txt file
+11/02/2023 15:26:Database updated in .txt file
+11/02/2023 15:27:Addition of a new student requested by user
+11/02/2023 15:28:Creation of a new class requested by user
+11/02/2023 15:28:Создан новый класс
+11/02/2023 15:28:Database updated in .txt file
+11/02/2023 15:28:Database updated in .txt file
+11/02/2023 15:28:Database updated in .txt file
+11/02/2023 15:28:Database updated in .txt file
+11/02/2023 15:28:Database updated in .txt file
+11/02/2023 15:28:Database updated in .txt file
+11/02/2023 15:28:Database updated in .txt file
+11/02/2023 15:28:Database updated in .txt file
+11/02/2023 15:28:Database updated in .txt file
+11/02/2023 15:28:Database updated in .txt file
+11/02/2023 15:28:Database updated in .txt file
+11/02/2023 15:28:Database updated in .txt file
+11/02/2023 15:28:Database updated in .txt file
+11/02/2023 15:28:Database updated in .txt file
+11/02/2023 15:28:Новый ученик добавлен в базу данных
+11/02/2023 15:29:School database preview in csv-format requested by user
+11/02/2023 15:29:File .csv unloaded
+11/02/2023 15:29:School database preview in html-format requested by user
+11/02/2023 15:29:File .html unloaded
+11/02/2023 15:30:Logging journal unload in .csv file requested by user
+11/02/2023 15:30:Logging journal unload in .csv file
+11/02/2023 15:30:Logging journal preview requested by user
+11/02/2023 15:30:Logging journal printed in terminal
+11/02/2023 15:31:Change of a student's class requested by user
+11/02/2023 15:31:Database updated in .txt file
+11/02/2023 15:31:Database updated in .txt file
+11/02/2023 15:31:Database updated in .txt file
+11/02/2023 15:31:Database updated in .txt file
+11/02/2023 15:31:Database updated in .txt file
+11/02/2023 15:31:Database updated in .txt file
+11/02/2023 15:31:Database updated in .txt file
+11/02/2023 15:31:Database updated in .txt file
+11/02/2023 15:31:Database updated in .txt file
+11/02/2023 15:31:Database updated in .txt file
+11/02/2023 15:31:Database updated in .txt file
+11/02/2023 15:31:Database updated in .txt file
+11/02/2023 15:31:Database updated in .txt file
+11/02/2023 15:31:Student's class changed
+11/02/2023 15:32:Update of info about a student requested by user
+11/02/2023 15:34:Database updated in .txt file
+11/02/2023 15:34:Database updated in .txt file
+11/02/2023 15:34:Database updated in .txt file
+11/02/2023 15:34:Database updated in .txt file
+11/02/2023 15:34:Database updated in .txt file
+11/02/2023 15:34:Database updated in .txt file
+11/02/2023 15:34:Database updated in .txt file
+11/02/2023 15:34:Database updated in .txt file
+11/02/2023 15:34:Database updated in .txt file
+11/02/2023 15:34:Database updated in .txt file
+11/02/2023 15:34:Database updated in .txt file
+11/02/2023 15:34:Database updated in .txt file
+11/02/2023 15:34:Database updated in .txt file
+11/02/2023 15:34:Info about student updated
